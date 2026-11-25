@@ -40,7 +40,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) VHTVideoConfig *localVideoConfig;			///< TRTC 本地流设置项
 @property(nonatomic) NSString* streamAttributes;
 @property (nonatomic, strong) id<IVHBeautifyModule> beautifyModule;
-
+@property (nonatomic,assign) BOOL forceUseTRTC;   ///< 强制使用TRTC
 
 /*
  * 进入互动房间后可用权限
@@ -56,6 +56,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 
 - (instancetype)initWithLogParam:( NSDictionary* _Nullable )logParam AndvancedBeautify:(id<IVHBeautifyModule>)module;
+- (instancetype)initWithLogParam:( NSDictionary* _Nullable )logParam AndvancedBeautify:(id<IVHBeautifyModule>)module forceTRTC:(BOOL)forceTRTC;
 
 #pragma mark - 房间操作
 /// 加入房间
@@ -130,6 +131,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 镜像本地回显画面(TRTC)
 - (void)camVidMirror:(BOOL)mirror;
+
+
+/// 强制使用TRTC
+-(void)selectRTCMode;
 
 #pragma mark - 上下麦操作
 
@@ -240,7 +245,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 强制用户离开(下线)互动房间
 - (BOOL)forceLeaveRoomWithInavId:(NSString *)inavId kickUserId:(NSString *)kick_user_id accessToken:(NSString *)accessToken onRequestFinished:(void(^)(id data))success onRequestFailed:(void(^)(NSError *error))failed;
+
 @end
+
 
 @interface VHInteractiveRoom(DEPRECATED)
 /// 踢出互动房间并加入黑名单 或 从黑名单解禁
@@ -262,6 +269,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 主播 是否接受 上麦推流申请
 /// @param third_user_id 互动观众的第三方id
 - (BOOL)acceptPublishRequest:(BOOL)isAccept thirdUserId:(NSString *)third_user_id __deprecated_msg("该操作已被移除，后续可通过业务逻辑自行实现");
+
 @end
 
 NS_ASSUME_NONNULL_END

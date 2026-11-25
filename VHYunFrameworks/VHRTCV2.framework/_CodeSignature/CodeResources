@@ -14,7 +14,7 @@
 		</data>
 		<key>Frameworks/VHWebRTC.framework/VHWebRTC</key>
 		<data>
-		pUB6W4DpIA5DCWgyUb7xy0fxNoQ=
+		xy1v1AX48Fr+6cF6iywrlRh9lV0=
 		</data>
 		<key>Frameworks/VHWebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/VHInteractiveRoom.h</key>
 		<data>
-		1jWp0aZBQ8I7ZleoHWylORLsBvk=
+		/W9qd/NRDavthWCYld9Qs9tCqTs=
 		</data>
 		<key>Headers/VHInteractiveRoomDelegate.h</key>
 		<data>
@@ -62,21 +62,21 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vR4Hj18Z15pMpSL+VtxP7dWX5Vg=
+		bGBfj0mSEjekGviDtT/YpoOxV3Y=
 		</data>
-		<key>TXLiteAVSDK_Professional.bundle/PrivacyInfo.xcprivacy</key>
+		<key>TXIMSDK_Plus_iOS_Privacy.bundle/Info.plist</key>
 		<data>
-		pOe2r+M5FAPvJyAnIDB5PuWhT3Y=
+		ZU4UpwESkZdrYSJNMetKiR/YyKA=
+		</data>
+		<key>TXIMSDK_Plus_iOS_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		IHdy45xMwMDZDccZgptM9E0CwrA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Frameworks/VHWebRTC.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TPs9qY3wHVdGJOP09UYQOFTs0mo=
-			</data>
 			<key>hash2</key>
 			<data>
 			u4C0kbVeQplInfZj04pAEK67SZNB5WCM+yuU3xjJrK8=
@@ -84,10 +84,6 @@
 		</dict>
 		<key>Frameworks/VHWebRTC.framework/LICENSE.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o/3OdiCH62q9Z/nlsjC5sLaVfiU=
-			</data>
 			<key>hash2</key>
 			<data>
 			mk1FPEVw7+5J2WVuHCc3D+2G0AP94EsXyTS4A/nGaJg=
@@ -95,21 +91,13 @@
 		</dict>
 		<key>Frameworks/VHWebRTC.framework/VHWebRTC</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pUB6W4DpIA5DCWgyUb7xy0fxNoQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			BOcPTV4ZG2Ml2eCVxc4fbq7umC5b8U7psrgXlXOsNo0=
+			hNq22+Hs188ph4Hx41jii9ywFOrVOglcd1fuXB8QHyo=
 			</data>
 		</dict>
 		<key>Frameworks/VHWebRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3vI33jLp7i4oXrmxXr/0IVzpLQA=
-			</data>
 			<key>hash2</key>
 			<data>
 			QtsdVq1cRtCQk+Y0A+MYD1J8vA/f18lr5QcjcmjGI0c=
@@ -117,10 +105,6 @@
 		</dict>
 		<key>Headers/VHBroadCastDef.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uU/MtltZwUSMdhaJcHBsSQ4b9Ic=
-			</data>
 			<key>hash2</key>
 			<data>
 			zy3bfhymhVbAmjParuAlgdXyAx/PLgaEqr3eUYERgBM=
@@ -128,10 +112,6 @@
 		</dict>
 		<key>Headers/VHIStream.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tgIM8daE0XgPtQb5Dkgucq4gP9Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			RIpP81PvEeJmz8qrYfkqKRZ8zVaB1x7oSDYw6SkWcww=
@@ -139,10 +119,6 @@
 		</dict>
 		<key>Headers/VHInteractiveCode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f+2vH/Hbyb9cbubeiuEWUC93vkg=
-			</data>
 			<key>hash2</key>
 			<data>
 			bjQjchBytMrY7rf5/FcLcPp0nd494SFMuYqLOK2SOuE=
@@ -150,21 +126,13 @@
 		</dict>
 		<key>Headers/VHInteractiveRoom.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1jWp0aZBQ8I7ZleoHWylORLsBvk=
-			</data>
 			<key>hash2</key>
 			<data>
-			gImgIkreKXxUQCc6BvV/6MnSiDY/1ndIuWm49jF/fzs=
+			Oi3SicFGzGUyY4E5GTGDTtM6MBpSAEWKicb1mI5z1rI=
 			</data>
 		</dict>
 		<key>Headers/VHInteractiveRoomDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Kt0cMs6Nv5Gb50QGTBcDg3IafsQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			+TjwaankBvNPK618hzZDCFRjoSj0V/LsPpgzoLk9m64=
@@ -172,10 +140,6 @@
 		</dict>
 		<key>Headers/VHOTOCall.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			C9CKDJhMNJVtcdKjYtsqKDN5FwE=
-			</data>
 			<key>hash2</key>
 			<data>
 			+Ni0C9JkrU/aY+d7Olh7bAtl6QDCTgLr5IhNXQiwD1U=
@@ -183,10 +147,6 @@
 		</dict>
 		<key>Headers/VHRenderView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zs+kYfnO4oq3xs4kSZ1X/rwNFU0=
-			</data>
 			<key>hash2</key>
 			<data>
 			gMxLW/p49zLKynlb7SZ4akBq6LPjUc7BGGsVUgHquN0=
@@ -194,10 +154,6 @@
 		</dict>
 		<key>Headers/VHTStream.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pq5qGf294o2hfkYzWeW5m7utUqg=
-			</data>
 			<key>hash2</key>
 			<data>
 			VntkdAlnX09airH4Ml/FWKAGGO2OubD8Rb7StIwjhd8=
@@ -205,10 +161,6 @@
 		</dict>
 		<key>Headers/VHTVideoConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uIhXPkut919TLe1j6mCQ/6FGmdM=
-			</data>
 			<key>hash2</key>
 			<data>
 			PphSXdjqr4ExRpB5UBR1B1xBnyjaX2F5ZTa7Mdcl5rM=
@@ -216,24 +168,23 @@
 		</dict>
 		<key>Headers/VHallInteractiveRoom.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KVwBGvQM9SmwZ/yhKVw6uTNoAug=
-			</data>
 			<key>hash2</key>
 			<data>
 			jVg0z/DY5RBaYT2PLXLB7lZelHOIIFDodtC2AXoYkuc=
 			</data>
 		</dict>
-		<key>TXLiteAVSDK_Professional.bundle/PrivacyInfo.xcprivacy</key>
+		<key>TXIMSDK_Plus_iOS_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pOe2r+M5FAPvJyAnIDB5PuWhT3Y=
-			</data>
 			<key>hash2</key>
 			<data>
-			5WJ2mc6QRoLNNxUq3odQOR2RiPsqpSpW+9KRM6r7VJY=
+			O3FidIHy4iQ9/pXwddWLGRnrVhTmQrFS4R+AFTlQCkU=
+			</data>
+		</dict>
+		<key>TXIMSDK_Plus_iOS_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fxSkj0w8/FWeR0ZrD2iUkKPtdPXY28xENrSwrQuVShM=
 			</data>
 		</dict>
 	</dict>
