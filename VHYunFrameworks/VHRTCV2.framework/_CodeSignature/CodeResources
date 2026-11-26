@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/VHWebRTC.framework/Info.plist</key>
-		<data>
-		TPs9qY3wHVdGJOP09UYQOFTs0mo=
-		</data>
-		<key>Frameworks/VHWebRTC.framework/LICENSE.md</key>
-		<data>
-		o/3OdiCH62q9Z/nlsjC5sLaVfiU=
-		</data>
-		<key>Frameworks/VHWebRTC.framework/VHWebRTC</key>
-		<data>
-		xy1v1AX48Fr+6cF6iywrlRh9lV0=
-		</data>
-		<key>Frameworks/VHWebRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		3vI33jLp7i4oXrmxXr/0IVzpLQA=
-		</data>
 		<key>Headers/VHBroadCastDef.h</key>
 		<data>
 		uU/MtltZwUSMdhaJcHBsSQ4b9Ic=
@@ -62,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bGBfj0mSEjekGviDtT/YpoOxV3Y=
+		aK4+cV8BFz21omMFl63ThaYu+5U=
 		</data>
 		<key>TXIMSDK_Plus_iOS_Privacy.bundle/Info.plist</key>
 		<data>
@@ -75,34 +59,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/VHWebRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			u4C0kbVeQplInfZj04pAEK67SZNB5WCM+yuU3xjJrK8=
-			</data>
-		</dict>
-		<key>Frameworks/VHWebRTC.framework/LICENSE.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mk1FPEVw7+5J2WVuHCc3D+2G0AP94EsXyTS4A/nGaJg=
-			</data>
-		</dict>
-		<key>Frameworks/VHWebRTC.framework/VHWebRTC</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hNq22+Hs188ph4Hx41jii9ywFOrVOglcd1fuXB8QHyo=
-			</data>
-		</dict>
-		<key>Frameworks/VHWebRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QtsdVq1cRtCQk+Y0A+MYD1J8vA/f18lr5QcjcmjGI0c=
-			</data>
-		</dict>
 		<key>Headers/VHBroadCastDef.h</key>
 		<dict>
 			<key>hash2</key>
